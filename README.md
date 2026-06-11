@@ -4,7 +4,7 @@
 
 MacroWise is a nutrition and shopping optimisation platform designed to help users make better food purchasing decisions based on their fitness goals, health priorities, budget, and dietary preferences.
 
-Unlike traditional calorie trackers, MacroWise focuses on helping users understand what they should buy, why they should buy it, and how their choices impact their goals.
+Unlike traditional calorie trackers, MacroWise focuses on helping users understand what to buy, why to buy it, and how their choices affect their goals.
 
 Whether you're cutting, bulking, maintaining, saving money, or simply trying to eat healthier, MacroWise provides actionable recommendations that simplify food shopping and nutrition planning.
 
